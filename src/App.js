@@ -1,21 +1,19 @@
 import React from 'react';
 import logo from './badal2.png';
+import pic from './logo.svg';
 import './App.css';
+import { Container, Row, Col } from '@mverissimoo/emotion-grid';
 
 function App() {
   return (
-    <div className="App">
-    <img className="photo" src={logo} alt="image" />
-        <p style={{fontSize: '2rem'}}>
-          Team Members:
-        </p>
-        <ul>
-          <li>Anish Karki</li>
-          <li>Ashis Rajthala</li>
-          <li>Badal karki</li>
-          <li>Nischal Shrestha</li>
-        </ul>
-    </div>
+    
+
+    <Container>
+      <Row>
+        <Col> 1 of 2 </Col>
+        <Col> 2 of 2 </Col>
+      </Row>
+    </Container>
   );
 }
 
