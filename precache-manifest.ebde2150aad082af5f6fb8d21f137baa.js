@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "876f0ec23c78cfa1657dd100cb6c4c8e",
+    "revision": "40dc69439a1bff01f11fe34134e03c79",
     "url": "/newReact-deploy/index.html"
   },
   {
-    "revision": "6614df7650f14e4dbecb",
+    "revision": "583205691f0fb8cb3e82",
     "url": "/newReact-deploy/static/css/main.f6117fe3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newReact-deploy/static/js/2.a0c31166.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6614df7650f14e4dbecb",
-    "url": "/newReact-deploy/static/js/main.994d4c73.chunk.js"
+    "revision": "583205691f0fb8cb3e82",
+    "url": "/newReact-deploy/static/js/main.831e2246.chunk.js"
   },
   {
     "revision": "34bff87e39926a8be773",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9f5c6c4634a9ab3d17a3c800e6f3075f",
     "url": "/newReact-deploy/static/media/badal2.9f5c6c46.png"
+  },
+  {
+    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
+    "url": "/newReact-deploy/static/media/logo.5d5d9eef.svg"
   }
 ]);
