@@ -15,6 +15,7 @@ function App() {
           <li>Badal karki</li>
           <li>Nischal Shrestha</li>
         </ul>
+        <img className="pic" src={pic} alt="image" />
       </div>
   );
 }
