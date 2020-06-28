@@ -1,24 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './badal2.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+    <img className="photo" src={logo} alt="image" />
+        <p style={{fontSize: '2rem'}}>
+          Team Members:
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <ul>
+          <li>Anish Karki</li>
+          <li>Ashis Rajthala</li>
+          <li>Badal karki</li>
+          <li>Nischal Shrestha</li>
+        </ul>
     </div>
   );
 }
