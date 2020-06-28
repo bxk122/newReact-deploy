@@ -16,6 +16,7 @@ function App() {
           <li>Nischal Shrestha</li>
         </ul>
         <img className="pic" src={pic} alt="image" />
+      <p> Hi Just Checking if its updating or not.</p>
       </div>
   );
 }
